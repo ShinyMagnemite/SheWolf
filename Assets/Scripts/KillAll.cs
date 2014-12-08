@@ -16,5 +16,15 @@ public class KillAll : MonoBehaviour {
 	void OnTriggerEnter (Collider other)
 	{
 		Destroy (other.gameObject);
+
+		if (other.tag == "Player") 
+		{
+			Application.LoadLevel (4);
+		}
+
+		if(this.tag == "finish")
+		{
+			Application.LoadLevel (1);
+		}
 	}
 }
