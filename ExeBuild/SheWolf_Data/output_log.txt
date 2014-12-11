@@ -2,29 +2,29 @@ Initialize engine version: 4.6.0b20 (a3ecf55f1347)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 780 Ti  (ID=0x100a)
+    Renderer: NVIDIA GeForce GTX 780 Ti (ID=0x100a)
     Vendor:   NVIDIA
-    VRAM:     2930 MB
+    VRAM:     2931 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: H:\New Unity Project 3\SheWolf_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading H:\New Unity Project 3\SheWolf_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: H:\New Unity Project 3\SheWolf_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading H:\New Unity Project 3\SheWolf_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: H:\New Unity Project 3\SheWolf_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading H:\New Unity Project 3\SheWolf_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.048 seconds
+Platform assembly: C:\Users\DWILLIAM33\Documents\GitHub\SheWolf\ExeBuild\SheWolf_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\DWILLIAM33\Documents\GitHub\SheWolf\ExeBuild\SheWolf_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\DWILLIAM33\Documents\GitHub\SheWolf\ExeBuild\SheWolf_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\DWILLIAM33\Documents\GitHub\SheWolf\ExeBuild\SheWolf_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\DWILLIAM33\Documents\GitHub\SheWolf\ExeBuild\SheWolf_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\DWILLIAM33\Documents\GitHub\SheWolf\ExeBuild\SheWolf_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
 desktop: 1920x1080 60Hz; virtual: 3360x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: H:\New Unity Project 3\SheWolf_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: H:\New Unity Project 3\SheWolf_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\DWILLIAM33\Documents\GitHub\SheWolf\ExeBuild\SheWolf_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\DWILLIAM33\Documents\GitHub\SheWolf\ExeBuild\SheWolf_Data\Managed\System.dll (this message is harmless)
 The referenced script on this Behaviour is missing!
  
 (Filename:  Line: 1789)
 
-UnloadTime: 2.529303 ms
+UnloadTime: 10.519543 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 151.
-Total: 0.731062 ms (FindLiveObjects: 0.011170 ms CreateObjectMapping: 0.005213 ms MarkObjects: 0.091848 ms  DeleteObjects: 0.002234 ms)
+Total: 1.696254 ms (FindLiveObjects: 0.026111 ms CreateObjectMapping: 0.023039 ms MarkObjects: 0.342015 ms  DeleteObjects: 0.009727 ms)
 
